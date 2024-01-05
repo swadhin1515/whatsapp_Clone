@@ -1,7 +1,8 @@
 repo_name: swadhin1515/whatsapp_Clone
 report_id: 91768d1f674c61f6c75cb8f5710eaf47
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:29:28+00:00'
+timestamp: '2024-01-05T08:58:49+00:00'
 requested_by: swadhin1515
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -36,7 +39,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -50,7 +53,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -62,6 +65,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-09-05 23:42:03.000000000 Z
@@ -73,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -82,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-13 23:56:04.000000000 Z
@@ -95,7 +101,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -110,7 +116,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -124,7 +130,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -138,7 +144,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -152,7 +158,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-06-15 18:22:45.000000000 Z
@@ -166,7 +172,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/whatsapp_Clone/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Karen Okonkwo
   last_updated_on: 2021-09-05 23:42:03.000000000 Z
